@@ -7,4 +7,4 @@
 - Link sharing
 - Clip expiration
 - JSON API
-- Password Protected cips
+- Password Protected clips
